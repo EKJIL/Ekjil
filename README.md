@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi, I'm Abdullah
+
+Statistics student at King Saud University.
+
+**Interests**
+- Regression and statistical inference
+- Forecasting and simulation
+- Interpretable models over black-box prediction
+
+**Tools:** Python · R · SQL
+
+
 
 <!--
 **EKJIL/Ekjil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
